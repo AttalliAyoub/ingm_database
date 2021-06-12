@@ -35,6 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </p>
     <a href="ajout-client.php" class="btn btn-primary"  > Add a user </a>
     <a href="afficher-client.php" class="btn btn-primary"> See the list of users </a>
+    <a href="logout.php" class="btn btn-danger">Sign Out</a>
   </div>
 </div>
 
