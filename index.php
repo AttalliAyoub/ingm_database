@@ -11,6 +11,7 @@
           <h5 class="mb-3">INGM Gestion des clients.</h5>
           <p class="mb-3">Attalli Ayoub</p>
           <p class="mb-3">Wassim Ouadah Imed Eddine</p>
+          <p class="mb-3">Aliouane fatma zohra</p>
           <!-- target="_blank" -->
           <a
             class="btn btn-primary btn-lg"
